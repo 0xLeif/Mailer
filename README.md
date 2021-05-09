@@ -1,0 +1,3 @@
+# Mailer
+
+*📧 Simple Email app*
