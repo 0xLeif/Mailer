@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "EmailCourier",
+        "repositoryURL": "https://github.com/0xLeif/EmailCourier",
+        "state": {
+          "branch": null,
+          "revision": "c8ce16810d9aaf6070ff7aaee4640d5bdee1261a",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
